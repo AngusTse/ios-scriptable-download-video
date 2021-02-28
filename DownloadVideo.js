@@ -25,7 +25,7 @@ async function main() {
         Script.complete()
     }
 }
-main()
+await main()
 
 function log(text) {
     logs.push(text)
@@ -108,3 +108,4 @@ async function getUrlInput() {
     }
 }
 exports.isVideoFileUrl = isVideoFileUrl
+exports.getFileName = getFileName
