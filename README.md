@@ -8,7 +8,7 @@ Enabling iOS user download MP4 video from a webpage with `<video/>` tag.
 2. Go to app Settings > File Bookmarks
 3. Click `+` button to select an iCloud folder as download destination. The bookmark name should be `scriptable-dowloadvideo`
 4. Click `+` button from the app.
-5. Copy & paste the [DownloadVideo.js](DownloadVideo.js) code to the editor.
+5. Copy & paste the [download-video.js](download-video.js) code to the editor.
 6. Give an name (e.g. `DL Video`) and icon for the script,
 7. Click `Share Sheet Inputs` and select `URLs`
 ![Setup Screenshot](screenshots/setup-small.gif)
